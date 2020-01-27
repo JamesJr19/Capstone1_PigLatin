@@ -1,0 +1,11 @@
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\bin\Debug\netcoreapp2.1\CapStone_Pig Latin.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\bin\Debug\netcoreapp2.1\CapStone_Pig Latin.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\bin\Debug\netcoreapp2.1\CapStone_Pig Latin.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\bin\Debug\netcoreapp2.1\CapStone_Pig Latin.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\bin\Debug\netcoreapp2.1\CapStone_Pig Latin.pdb
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\obj\Debug\netcoreapp2.1\CapStone_Pig Latin.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\obj\Debug\netcoreapp2.1\CapStone_Pig Latin.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\obj\Debug\netcoreapp2.1\CapStone_Pig Latin.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\obj\Debug\netcoreapp2.1\CapStone_Pig Latin.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\obj\Debug\netcoreapp2.1\CapStone_Pig Latin.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\CapStone_Pig Latin\CapStone_Pig Latin\obj\Debug\netcoreapp2.1\CapStone_Pig Latin.pdb
